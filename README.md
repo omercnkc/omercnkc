@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ömer
-- 🌱 I’m currently learning java
+- 🌱  I am actively learning Java right now.
+-  I am also a 2nd year software engineering student at my university.
 - 📫 How to reach me ...
 
 <!---
