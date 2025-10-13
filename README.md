@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ömer
 - 🌱  I am actively learning Java right now.
--  I am also a 2nd year software engineering student at my university.
+-  I am in my third year at Firat University as a software engineering student.
 - 📫 How to reach me ...
 
 <!---
